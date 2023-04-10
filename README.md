@@ -7,6 +7,14 @@ Hello World! This is my portfolio designed with solid foundational skills in HTM
 * JavaScript
 * GitHub
 
+## Screen Shots of Portfolio ##
+![Image of home screen](img/pic%20of%20home%20screen.png)
+
+![Image of accessible drop down menu](img/pic%20of%20accessible%20menu.png)
+
+![Image of About page](img/about%20pic.png)
+
+
 ## Front End Technologies I use: ##
 * REACT
 * HTML
