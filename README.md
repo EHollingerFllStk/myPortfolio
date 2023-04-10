@@ -48,8 +48,8 @@ Hello World! This is my portfolio designed with solid foundational skills in HTM
 * Technical Writing
 
 ## Attributions ##
-Jen Kramer - Frontend Masters CSS
-JavaScript - How to create a responsive hamburger menu with HTML, CSS and Javascript - "https://youtu.be/flItyHiDm7E"
+* Jen Kramer - Frontend Masters CSS
+* JavaScript - How to create a responsive hamburger menu with HTML, CSS and Javascript - "https://youtu.be/flItyHiDm7E"
 
 ## Visit myPortfolio!! ##
 Click here to visit deployed portfolio!
