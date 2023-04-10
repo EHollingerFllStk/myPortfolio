@@ -3,6 +3,7 @@
     --black: #171321;
     --dkblue: #0d314b;
     --plum: #4b0d49;
+    --purple: #635985;
     --hotmag: #ff17e4;
     --magenta: #e310cb;
     --aqua: #86fbfb;
@@ -254,7 +255,7 @@
 }
 
 .section-dkblue {
-  background-color: var(--dkblue);
+  background-color: var(--purple);
 }
 
 /* footer section */
@@ -287,7 +288,7 @@ footer ul {
   /* about section */
 #about {
   padding: 4rem 1rem;
-  background-color: var(--dkblue);;
+  background-color: var(--purple);;
 }
 
 #about h2 {
@@ -334,8 +335,8 @@ footer ul {
 }
 
 #about .section-dkblue {
-  background-color: var(--dkblue);
-}
+  background-color: var(--purple);
+} 
 
 /* responsive design */
 @media (min-width: 800px) {
