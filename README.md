@@ -1,5 +1,5 @@
 # myPortfolio #
-Hello World! This is my portfolio designed with solid foundational skills in HTML, CSS and JavaScript with particular attention to accessibility. Here I used my newly learned skills as a developer to ensure this portfolio is fully accessible complete with drop-down menus that can be tabbed through and aria-labels on HTML elements for screen readers. Please be sure to visit my projects to see how I learn and grow as a developer. Stop back for updates and additional links to new projects, or even an updated Portfolio with a new technology! Visit the About page to learn more about me. Be sure to check out my Github as I am always working on something. After you have viewed my portfolio, please contact me regarding your thoughts, feedback, or any other questions you have. Also, be sure to connect on LinkedIn!
+Hello World! This is my portfolio designed with solid foundational skills in HTML, CSS and JavaScript with particular attention to accessibility. Here I used my newly learned skills as a developer to ensure this portfolio is fully accessible, complete with drop-down menus and aria-labels on HTML elements for screen readers. Please be sure to visit my projects to see how I learn and grow as a developer. Stop back for updates and additional links to new projects, or even to an updated Portfolio with a new technology! Visit the About page to learn more about me. Be sure to check out my Github as I am always working on something. After you have viewed my portfolio, please contact me regarding your thoughts, feedback, or any other questions you have. Also, be sure to connect on LinkedIn!
 
 ### Technologies Used in this Portfolio ###
 * HTML
@@ -8,11 +8,11 @@ Hello World! This is my portfolio designed with solid foundational skills in HTM
 * GitHub
 
 ## Screen Shots of Portfolio ##
-![Image of home screen](img/pic%20of%20home%20screen.png)
+![Image of home screen](img/home%20screen%20pic.png)
 
-![Image of accessible drop down menu](img/pic%20of%20accessible%20menu.png)
+![Image of accessible drop down menu](img/pic%20of%20drop%20down%20menu.png)
 
-![Image of About page](img/about%20pic.png)
+![Image of About page](img/pic%20of%20drop%20down%20menu.png)
 
 
 ## Front End Technologies I use: ##
