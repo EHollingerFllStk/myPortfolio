@@ -12,7 +12,7 @@ Hello World! This is my portfolio designed with solid foundational skills in HTM
 
 ![Image of accessible drop down menu](img/pic%20of%20drop%20down%20menu.png)
 
-![Image of About page](img/pic%20of%20drop%20down%20menu.png)
+![Image of About page]!(img/pic%20of%20about.png)
 
 
 ## Front End Technologies I use: ##
