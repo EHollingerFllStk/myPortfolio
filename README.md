@@ -7,7 +7,7 @@ Hello World! This is my portfolio designed with solid foundational skills in HTM
 * JavaScript
 * GitHub
 
-### Front End Technologies I use ###
+## Front End Technologies I use: ##
 * REACT
 * HTML
 * CSS
@@ -18,7 +18,7 @@ Hello World! This is my portfolio designed with solid foundational skills in HTM
 * jQuery
 * Python
 
-### Back End Technologies I use ###
+## Back End Technologies I use: ##
 * Node.js
 * Express
 * MongoDB 
@@ -28,7 +28,7 @@ Hello World! This is my portfolio designed with solid foundational skills in HTM
 * Python
 * Django
 
-### Other Technologies ###
+## Other Technologies ##
 * RESTful APIs
 * JSON
 * AJAX
@@ -51,5 +51,6 @@ Hello World! This is my portfolio designed with solid foundational skills in HTM
 Jen Kramer - Frontend Masters CSS
 JavaScript - How to create a responsive hamburger menu with HTML, CSS and Javascript - "https://youtu.be/flItyHiDm7E"
 
+## Visit myPortfolio!! ##
 Click here to visit deployed portfolio!
 
