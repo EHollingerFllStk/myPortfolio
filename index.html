@@ -14,13 +14,14 @@
     <script defer src="js/script.js"></script>
 </head>
 <body>
-    <nav class="navbar">
-        <ul>
+    <nav class="navbar" role="navigation">
+          <ul>
             <li>
                 <h1><a href="index.html" class="nav-branding"> 
                   <i class="fa-solid fa-rocket fa-spin fa-spin-reverse" aria-hidden="true"></i>
                   <span id="name">Beth Hollinger</span></a></h1>
             </li>
+          </ul>
           <ul class="nav-menu">
             <li class="nav-item"><a href="#projects" class="nav-link">Projects</a></li>
             <li class="nav-item"><a href="about.html" class="nav-link">About</a></li>
@@ -48,13 +49,13 @@
               </a>
             </li>
           </ul>
-        </ul>
         <div class="hamburger">
           <span class="bar"></span>
           <span class="bar"></span>
           <span class="bar"></span>
         </div>
       </nav>
+    <main role="main">
     <section id="intro">
         <p class="name">Hi, my name is <span>Beth Hollinger.</span></p>
         <h2>I'm a frontend developer</h2>
@@ -71,7 +72,7 @@
             <h4>Latest Project</h4>
             <h3>GA's Spring Hackathon 2023 - Plantivity</h3>
             <p class="blackbox">This is an app that helps users balance the top priorities in thier lives by growing plants in thier garden.
-            This was a 4 day sprint to complete a fully deployed Full Stack Web Application based on a theme of Gamification.  This was a great opportunity for me to work with other developers and a UI/UX design team in an agile environment. This is the <a href="https://plantivity.netlify.app/" target="_blank"> Deployed App</a>, and check out my GitHub for this project too! <a href="https://github.com/EHollingerFllStk/team6-hackathon-fe" target="_blank">GitHub</a>.</p>
+            This was a 4 day sprint to complete a fully deployed Full Stack Web Application based on a theme of Gamification.  This was a great opportunity for me to work with other developers and a UI/UX design team in an agile environment. This is the <a href="https://plantivity.netlify.app/" target="_blank"> <span class="sr-only">Deployed App - Plantivity App</span>Deployed App</a>, and check out my GitHub for this project too! <a href="https://github.com/EHollingerFllStk/team6-hackathon-fe" target="_blank"> <span class="sr-only">Github - Plantivity Repo</span>GitHub</a>.</p>
             <h4>Technologies used include:</h4>
             <ul>
               <li>REACT</li>
@@ -87,7 +88,7 @@
           <div class="text">
           <h4>Bootcamp Project</h4>
           <h3>Senior Support Services</h3>
-      <p class="blackbox">This app alleviates added stress that caregivers face when presented with the need to evaluate care agencies and services for thier loved ones. It allows users seniors and thier gaurdians to track care agencies. I created this out of my own personal need. It is a two model full CRUD application utilizing Python and Django. Here is the <a href="https://senior-support-services.herokuapp.com/">Deployed App</a>, and <a href="https://github.com/EHollingerFllStk/Seniors">GitHub</a>.</p>
+      <p class="blackbox">This app alleviates added stress that caregivers face when presented with the need to evaluate care agencies and services for thier loved ones. It allows users seniors and thier gaurdians to track care agencies. I created this out of my own personal need. It is a two model full CRUD application utilizing Python and Django. Here is the <a href="https://senior-support-services.herokuapp.com/"><span class="sr-only">Deployed App - Senior Support Services App</span>Deployed App</a>, and <a href="https://github.com/EHollingerFllStk/Seniors"><span class="sr-only">Github - Senior Support Services Repo></span>GitHub</a>.</p>
           <h4>Technologies used include:</h4>
           <ul>
             <li>PYTHON</li>
@@ -103,7 +104,7 @@
           <div class="text">
             <h4>Bootcamp Project</h4>
             <h3>Essential Oils Catalog</h3>
-            <p class="blackbox">An app that gives users the opportunity to catalog essential oils and essential oil recipes. I enjoyed this project because I met MVP early and I was able to create an additional model to the project. This was a a two model full CRUD application that allows users to create, edit, update and delete thier own data. It was also my first full project utilizing MongoDB and Mongoose along with Postman. This is the <a href="https://essoils.herokuapp.com/" target="_blank"> Deployed App</a>, and here is my <a href="https://github.com/EHollingerFllStk/Unit2Project-EssentialOils" target="_blank">GitHub</a>!</p>
+            <p class="blackbox">An app that gives users the opportunity to catalog essential oils and essential oil recipes. I enjoyed this project because I met MVP early and I was able to create an additional model to the project. This was a two model full CRUD application that allows users to create, edit, update and delete thier own data. It was also my first full project utilizing MongoDB and Mongoose along with Postman. This is the <a href="https://essoils.herokuapp.com/" target="_blank"> <span class="sr-only">Deployed App - Essential Oils Catalog App</span>Deployed App</a>, and here is my <a href="https://github.com/EHollingerFllStk/Unit2Project-EssentialOils" target="_blank"><span class="sr-only">GitHub - Essential Oils Catalog </span>GitHub</a>!</p>
             <h4>Technologies used include:</h4>
             <ul>
               <li>HTML</li>
@@ -121,7 +122,7 @@
           <h4>Group Project</h4>
           <h3>Vibe Voyage</h3>
       <p class="blackbox">This was my first group project and I had a great opportunity to stretch and grow through this experience. This app enables users to experience relaxation through the meditation page or through journaling on the notes page. The app itself is built with the MERN stack, providing users with the ability to create, edit and delete thier notes and retrieve them later. Check out the Vibes!
-       <a href="https://vibe-voyage.netlify.app/">Deployed App</a>, and <a href="https://github.com/EHollingerFllStk/VibeVoyage-frontend">GitHub</a>.</p>
+       <a href="https://vibe-voyage.netlify.app/"><span class="sr-only">Deployed App - Vibe Voyage App</span>Deployed App</a>, and <a href="https://github.com/EHollingerFllStk/VibeVoyage-frontend"><span class="sr-only">GitHub - Vibe Voyage Repo</span>GitHub</a>.</p>
           <h4>Technologies used include:</h4>
           <ul>
             <li>REACT</li>
@@ -137,7 +138,7 @@
             <h4>Bootcamp Project</h4>
             <h3>Superheroes and Villains</h3>
             <p class="blackbox">An app that compiles the powerstats and images of superheroes and villains using a superhero API.
-            Responsive design with CSS flexbox. I developed the web application using AJAX (Asynchronous JavaScript and XML). I also had an opportunity to use  jQuery in this project to access API via the AJAX call. This is the <a href="https://heroes-4pcn7a9kc-hollingere15-gmailcom.vercel.app/" target="_blank"> Deployed App</a>, and check out my GitHub for this project too! <a href="https://github.com/EHollingerFllStk/Super-Heroes-and-Villains" target="_blank">GitHub</a>.</p>
+            Responsive design with CSS flexbox. I developed the web application using AJAX (Asynchronous JavaScript and XML). I also had an opportunity to use  jQuery in this project to access API via the AJAX call. This is the <a href="https://heroes-4pcn7a9kc-hollingere15-gmailcom.vercel.app/" target="_blank"> <span class="sr-only">Deployed App - Superheroes and Villains App</span>Deployed App</a>, and check out my GitHub for this project too! <a href="https://github.com/EHollingerFllStk/Super-Heroes-and-Villains" target="_blank"><span class="sr-only">GitHub - Superheroes and Villains Repo</span>GitHub</a>.</p>
             <h4>Technologies used include:</h4>
             <ul>
               <li>HTML</li>
@@ -162,8 +163,9 @@
             </p>
     </section>
     </div>
+  </main>
     <div class="gradient"></div>
-    <footer>
+    <footer role="contentinfo">
         <h2>Beth Hollinger &middot Software Developer</h2>
       <ul>
         <li>

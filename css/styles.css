@@ -123,12 +123,12 @@
     justify-content: center;
     align-items: center;
     gap: 2rem;
-    
   }
 
   nav li:first-child {
     flex-basis: 100%;
     text-align: center;
+    list-style-type: none;
   }
 
   nav [class*="fa-"] {
@@ -154,7 +154,7 @@
   }
 
   .button {
-    background-color: var(--magenta);
+    background-color: var(--plum);
     color: white;
     padding: 0.5rem;
     border-radius: 5px;
@@ -164,7 +164,7 @@
   
   .button:hover {
     color: white;
-    background-color: var(--hotmag);
+    background-color: var(--magenta);
     transition: 0.7s ease;
   }
 
@@ -400,8 +400,6 @@ footer ul {
     justify-content: flex-end;  
 }
 
-
-
 /**** about *****/
 
 #about {
@@ -453,7 +451,6 @@ footer ul {
 #projects ul {
   justify-content: flex-end;  
 }
-
 
 @media (min-width: 850px) {
   nav {
