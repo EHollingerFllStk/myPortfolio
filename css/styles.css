@@ -111,6 +111,7 @@
   
   nav h1 a {
     font-family: var(--sans);
+    transition: 0.7s;
   }
   
   nav ul {
@@ -122,7 +123,7 @@
     justify-content: center;
     align-items: center;
     gap: 2rem;
-
+    
   }
 
   nav li:first-child {
@@ -133,6 +134,7 @@
   nav [class*="fa-"] {
     font-size: 150%;
     color: var(--aqua);
+    transition: 0.7s ease;
   }
 
   nav h1 [class*="fa-"] {
@@ -163,6 +165,7 @@
   .button:hover {
     color: white;
     background-color: var(--hotmag);
+    transition: 0.7s ease;
   }
 
   .navbar {
@@ -175,6 +178,7 @@
     display: flex;
     align-items: right;
     margin-left: 0;
+    
   }
   
   .nav-branding {
@@ -188,6 +192,7 @@
   
   .nav-link:hover {
     color: var(--hotmag);
+    transition: 0.3s;
   }
   
   .hamburger {
@@ -252,7 +257,7 @@
     border-left: 1px solid var(--aqua);
     border-top: 1px solid var(--aqua);
     border-radius: 25px;
-    width: 670px;
+    flex-basis: 670px;
     height: 395px;
 }
 
@@ -434,6 +439,7 @@ footer ul {
   max-width: 1200px;
   margin: 0 auto;
 } */
+
 #projects img {
   grid-column: 1/6;
   grid-row: 1/2;
